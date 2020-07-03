@@ -1,6 +1,6 @@
 import Utils from '../../fixtures/Utils'
 
-describe("HTTP Example", ()=>{
+describe("User verification test scenarios", ()=>{
 
     let utils = new Utils()
     let token
